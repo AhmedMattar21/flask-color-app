@@ -1,7 +1,7 @@
 ## Flask Color App
 
 Simple Falsk app which changes its background color by passing an environment variable.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of the app.](https://github.com/AhmedMattar21/flask-color-app/blob/master/static/images/color_app.png)
 
 ### Using Docker
 ```
