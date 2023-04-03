@@ -12,6 +12,7 @@ $ docker run -e APP_COLOR=blue -p 5000:5000 m4tt4r/flask-color-app
 ```
 $ cd flask-color-app
 $ pip3 install -r requirements.txt
+$ export APP_COLOR=gold
 $ flask run
 ```
 
