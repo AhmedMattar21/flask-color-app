@@ -7,3 +7,12 @@ Simple Falsk app which changes its background color by passing an environment va
 ```
 $ docker run -e APP_COLOR=blue -p 5000:5000 m4tt4r/flask-color-app
 ```
+
+### Run it using python
+```
+$ cd flask-color-app
+$ pip3 install -r requirements.txt
+$ flask run
+```
+
+> Python version 3.10.6
